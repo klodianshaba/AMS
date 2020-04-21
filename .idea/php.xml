@@ -1,45 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="c2a6c21d-6515-4ccb-ae74-dcb25b35f451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/ionic.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/explore-container/explore-container.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/explore-container/explore-container.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/explore-container/explore-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/explore-container/explore-container.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lumen/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/lumen/app/User.php" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/lumen/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Ionic-Angular" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/lumen/vendor/phpunit/php-code-coverage" />
       <path value="$PROJECT_DIR$/lumen/vendor/phpunit/php-file-iterator" />
@@ -161,75 +122,10 @@
       <path value="$PROJECT_DIR$/lumen/vendor/symfony/polyfill-intl-idn" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1ahmUkX2oko6eK34XGoixkn10OB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shaba" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Users\klodi\AMS\Ionic-Angular\node_modules\typescript\lib" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\klodi\AMS\Ionic-Angular" />
-    </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="c2a6c21d-6515-4ccb-ae74-dcb25b35f451" name="Default Changelist" comment="" />
-      <created>1587196217566</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1587196217566</updated>
-      <workItem from="1587196219433" duration="79476000" />
-      <workItem from="1587453483006" duration="42749000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="724" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587206039085">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="724" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587206039085" />
-    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587456511774">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587456511774" />
-    <state x="690" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587214290296">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587214290296" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1587477186506">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587477186506" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/lumen/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
 </project>
