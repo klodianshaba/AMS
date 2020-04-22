@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a6c21d-6515-4ccb-ae74-dcb25b35f451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ionic-Angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/ionic.config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/package.json" afterDir="false" />
@@ -19,11 +16,14 @@
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tab1/tab1.page.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/app/tabs/tabs.page.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.prod.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/global.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lumen/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/lumen/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ionic-Angular/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ionic-Angular/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +207,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587196217566</updated>
       <workItem from="1587196219433" duration="79476000" />
-      <workItem from="1587453483006" duration="42749000" />
+      <workItem from="1587453483006" duration="81070000" />
     </task>
     <servers />
   </component>
@@ -227,9 +227,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587214290296" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1587477186506">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1587552458858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587477186506" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587552458858" />
   </component>
 </project>
